@@ -1,8 +1,7 @@
 public class smallNumber {
     public static void main(String[] args) {
         // Array of numbers
-        int[] numbers = { 10, 5, 8, 20, 15 };
-
+        int[] numbers = { 100, 5, 88, 45, 33, 77, 1 };
         // Initialize maxNumber with the first element of the array
         int smallNumber = numbers[0];
 
